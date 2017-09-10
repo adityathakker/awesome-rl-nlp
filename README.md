@@ -2,7 +2,11 @@
 Curated List of Reinforcement Learning Resources for Natural Language Processing
 
 ## Table of Contents
+  - [Tutorials](#tutorials)
   - [Interesting Research Papers](#interesting-research-papers)
+
+## Tutorials
+  - [Reinforcement Learning for NLP](http://www.umiacs.umd.edu/~jbg/teaching/CSCI_7000/11a.pdf)
 
 ## Interesting Research Papers
   - [Coarse-to-Fine Question Answering for Long Documents](https://homes.cs.washington.edu/~eunsol/papers/acl17eunsol.pdf)
