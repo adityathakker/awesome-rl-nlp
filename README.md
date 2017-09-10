@@ -21,5 +21,4 @@ Curated List of Reinforcement Learning Resources for Natural Language Processing
   - [Language Understanding for Text-based Games using Deep Reinforcement Learning](https://arxiv.org/pdf/1506.08941.pdf)
   - [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](https://arxiv.org/pdf/1606.01269v1.pdf)
   - [End-to-End Reinforcement Learning of Dialogue Agents for Information Access](https://arxiv.org/pdf/1609.00777v1.pdf)
-  - [Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning](https://arxiv.org/pdf/1603.07954.pdf)
   - [Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning](https://arxiv.org/pdf/1702.03274.pdf)
