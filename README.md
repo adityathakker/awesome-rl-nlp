@@ -2,13 +2,23 @@
 Curated List of Reinforcement Learning Resources for Natural Language Processing
 
 ## Table of Contents
+  - [Repositories](#repositories)
   - [Tutorials](#tutorials)
   - [Interesting Research Papers](#interesting-research-papers)
+  
+## Repositories
+  - [Generative_NLP_RL_GAN](https://github.com/OctThe16th/Generative_NLP_RL_GAN)
+  - [RL4NLP Reading Group (Spring 2017)](https://github.com/jiyfeng/rl4nlp)
+  - [Recent Deep Learning papers in NLU and RL](https://github.com/madrugado/deep-learning-nlp-rl-papers)
 
 ## Tutorials
+  - [CMU Neural Nets for NLP 2017 (16): Reinforcement Learning](https://www.youtube.com/watch?v=F1hZfoh-wX4)
   - [Reinforcement Learning for NLP](http://www.umiacs.umd.edu/~jbg/teaching/CSCI_7000/11a.pdf)
 
 ## Interesting Research Papers
+  - [Learning to Organize Knowledge with N-Gram Machines](https://arxiv.org/abs/1711.06744v1)
+  - [Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision](https://arxiv.org/abs/1611.00020v4)
+  - [Deep Reinforcement Learning for Mention-Ranking Coreference Models](https://arxiv.org/abs/1609.08667v3)
   - [Coarse-to-Fine Question Answering for Long Documents](https://homes.cs.washington.edu/~eunsol/papers/acl17eunsol.pdf)
   - [A Deep Reinforced Model for Abstractive Summarization](https://arxiv.org/pdf/1705.04304.pdf)
   - [Reinforcement Learning for Simultaneous Machine Translation](https://www.umiacs.umd.edu/~jbg/docs/2014_emnlp_simtrans.pdf)
@@ -22,4 +32,4 @@ Curated List of Reinforcement Learning Resources for Natural Language Processing
   - [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](https://arxiv.org/pdf/1606.01269v1.pdf)
   - [End-to-End Reinforcement Learning of Dialogue Agents for Information Access](https://arxiv.org/pdf/1609.00777v1.pdf)
   - [Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning](https://arxiv.org/pdf/1702.03274.pdf)
-   - [Deep Reinforcement Learning for Mention-Ranking Coreference Models](https://arxiv.org/abs/1609.08667)
+   
