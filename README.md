@@ -1,5 +1,5 @@
 # Awesome Reinforcement Learning(RL) for Natural Language Processing(NLP) 
-Curated List of Reinforcement Learning Resources for Natural Language Processing
+Curated List of Reinforcement Learning Resources for Natural Language Processing. I am updating this list as I read and learn about this repositories/papers/tutorials. This repository might not get updated regularly because less research work is being published in the intersection of NLP and RL. 
 
 ## Table of Contents
   - [Repositories](#repositories)
